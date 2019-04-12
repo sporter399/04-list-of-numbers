@@ -8,7 +8,7 @@ def print_each_number():
     # ...etc
     # TODO - Write your code below this line.  (Keep the indentation)
     for i in nums:
-    print(i)
+        print(i)
 
     
 
@@ -23,6 +23,6 @@ def print_each_number_and_its_square():
     # ...etc
     # TODO - Write your code below this line.  (Keep the indentation)
     for i in nums:
-    print("The square of", i, "is", i**2)
+        print("The square of", i, "is", i**2)
     
 
